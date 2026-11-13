@@ -1,0 +1,4 @@
+00- git pull SEMPRE
+1- git add . add todos os arquivos
+2- git commit -m "MEnsagem" ele salva no seu pc
+3- git push manda as coisa para a nuvem
